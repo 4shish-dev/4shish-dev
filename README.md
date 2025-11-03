@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ashish!
+                                                                    👋 Hi, I'm Ashish!
 
 I'm a passionate computer science student at IGNOU building a strong foundation in software development. I'm currently seeking a  Internship where I can contribute to real-world projects and grow my skills in:
 
